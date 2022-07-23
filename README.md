@@ -1,5 +1,7 @@
 # mod12emptracker
 
+Creating a program that will allow the owner of a company to see all the departments, roles, and employees in his company. It will also allow him to go through and see who belongs to what role and department while also being able to view their salary. If the owner chooses, they can also view different parameters such as employee/dept, role/salary, etc..
+
 # 12 SQL: Employee Tracker
 
 Developers frequently have to create interfaces that allow non-developers to easily view and interact with information stored in databases. These interfaces are called **content management systems (CMS)**. Your assignment this week is to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
